@@ -1,0 +1,12 @@
+{
+    "id": "uint32",
+    "schedule_name": "category",
+    "experience_name": "category",
+    "salary_from": "float32",
+    "salary_currency": "category",
+    "name": "category",
+    "area_name": "category",
+    "published_at": "object",
+    "employment_name": "category",
+    "prof_classes_found": "category"
+}

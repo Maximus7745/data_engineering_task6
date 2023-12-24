@@ -1,0 +1,53 @@
+{
+    "total_memory_usage": "530044",
+    "name": {
+        "memory_abs": "106675",
+        "type": "object",
+        "memory_per": 20.1257
+    },
+    "employment_name": {
+        "memory_abs": "83971",
+        "type": "object",
+        "memory_per": 15.8423
+    },
+    "experience_name": {
+        "memory_abs": "78363",
+        "type": "object",
+        "memory_per": 14.7842
+    },
+    "schedule_name": {
+        "memory_abs": "74378",
+        "type": "object",
+        "memory_per": 14.0324
+    },
+    "area_name": {
+        "memory_abs": "67028",
+        "type": "object",
+        "memory_per": 12.6457
+    },
+    "published_at": {
+        "memory_abs": "46483",
+        "type": "object",
+        "memory_per": 8.7696
+    },
+    "prof_classes_found": {
+        "memory_abs": "37803",
+        "type": "object",
+        "memory_per": 7.132
+    },
+    "salary_currency": {
+        "memory_abs": "26157",
+        "type": "object",
+        "memory_per": 4.9349
+    },
+    "id": {
+        "memory_abs": "4590",
+        "type": "int64",
+        "memory_per": 0.866
+    },
+    "salary_from": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.866
+    }
+}

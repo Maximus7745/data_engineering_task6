@@ -1,0 +1,229 @@
+{
+    "total_memory_usage": "758432",
+    "file_size": "186664",
+    "full_name": {
+        "memory_abs": "70627",
+        "type": "object",
+        "memory_per": 9.3122
+    },
+    "id": {
+        "memory_abs": "60843",
+        "type": "object",
+        "memory_per": 8.0222
+    },
+    "equinox": {
+        "memory_abs": "58035",
+        "type": "object",
+        "memory_per": 7.652
+    },
+    "orbit_id": {
+        "memory_abs": "56996",
+        "type": "object",
+        "memory_per": 7.515
+    },
+    "class": {
+        "memory_abs": "56163",
+        "type": "object",
+        "memory_per": 7.4051
+    },
+    "neo": {
+        "memory_abs": "54291",
+        "type": "object",
+        "memory_per": 7.1583
+    },
+    "pha": {
+        "memory_abs": "53785",
+        "type": "object",
+        "memory_per": 7.0916
+    },
+    "pdes": {
+        "memory_abs": "46056",
+        "type": "int64",
+        "memory_per": 6.0725
+    },
+    "name": {
+        "memory_abs": "30675",
+        "type": "object",
+        "memory_per": 4.0445
+    },
+    "prefix": {
+        "memory_abs": "8860",
+        "type": "float64",
+        "memory_per": 1.1682
+    },
+    "spkid": {
+        "memory_abs": "7488",
+        "type": "int64",
+        "memory_per": 0.9873
+    },
+    "H": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "diameter": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "albedo": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "diameter_sigma": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "epoch": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "epoch_mjd": {
+        "memory_abs": "7488",
+        "type": "int64",
+        "memory_per": 0.9873
+    },
+    "epoch_cal": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "e": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "a": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "q": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "i": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "om": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "w": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "ma": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "ad": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "n": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "tp": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "tp_cal": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "per": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "per_y": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "moid": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "moid_ld": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_e": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_a": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_q": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_i": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_om": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_w": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_ma": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_ad": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_n": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_tp": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "sigma_per": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    },
+    "rms": {
+        "memory_abs": "7488",
+        "type": "float64",
+        "memory_per": 0.9873
+    }
+}

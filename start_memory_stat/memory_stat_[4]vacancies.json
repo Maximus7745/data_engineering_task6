@@ -1,0 +1,284 @@
+{
+    "total_memory_usage": "4450971",
+    "file_size": "544453",
+    "description": {
+        "memory_abs": "2235413",
+        "type": "object",
+        "memory_per": 50.223
+    },
+    "specializations": {
+        "memory_abs": "301473",
+        "type": "object",
+        "memory_per": 6.7732
+    },
+    "terms_found": {
+        "memory_abs": "196396",
+        "type": "object",
+        "memory_per": 4.4124
+    },
+    "employer_industries": {
+        "memory_abs": "154627",
+        "type": "object",
+        "memory_per": 3.474
+    },
+    "key_skills": {
+        "memory_abs": "109673",
+        "type": "float64",
+        "memory_per": 2.464
+    },
+    "name": {
+        "memory_abs": "78280",
+        "type": "object",
+        "memory_per": 1.7587
+    },
+    "apply_alternate_url": {
+        "memory_abs": "66568",
+        "type": "object",
+        "memory_per": 1.4956
+    },
+    "employment_name": {
+        "memory_abs": "65511",
+        "type": "object",
+        "memory_per": 1.4718
+    },
+    "experience_name": {
+        "memory_abs": "64003",
+        "type": "object",
+        "memory_per": 1.438
+    },
+    "schedule_name": {
+        "memory_abs": "60717",
+        "type": "object",
+        "memory_per": 1.3641
+    },
+    "employer_vacancies_url": {
+        "memory_abs": "58989",
+        "type": "object",
+        "memory_per": 1.3253
+    },
+    "employer_name": {
+        "memory_abs": "57997",
+        "type": "object",
+        "memory_per": 1.303
+    },
+    "billing_type_name": {
+        "memory_abs": "57220",
+        "type": "object",
+        "memory_per": 1.2856
+    },
+    "area_name": {
+        "memory_abs": "56828",
+        "type": "object",
+        "memory_per": 1.2768
+    },
+    "type_name": {
+        "memory_abs": "56242",
+        "type": "object",
+        "memory_per": 1.2636
+    },
+    "alternate_url": {
+        "memory_abs": "49926",
+        "type": "object",
+        "memory_per": 1.1217
+    },
+    "employer_alternate_url": {
+        "memory_abs": "49252",
+        "type": "object",
+        "memory_per": 1.1065
+    },
+    "area_url": {
+        "memory_abs": "47584",
+        "type": "object",
+        "memory_per": 1.0691
+    },
+    "created_at": {
+        "memory_abs": "46483",
+        "type": "object",
+        "memory_per": 1.0443
+    },
+    "published_at": {
+        "memory_abs": "46483",
+        "type": "object",
+        "memory_per": 1.0443
+    },
+    "address_street": {
+        "memory_abs": "41871",
+        "type": "object",
+        "memory_per": 0.9407
+    },
+    "experience_id": {
+        "memory_abs": "39549",
+        "type": "object",
+        "memory_per": 0.8885
+    },
+    "prof_classes_found": {
+        "memory_abs": "37803",
+        "type": "object",
+        "memory_per": 0.8493
+    },
+    "billing_type_id": {
+        "memory_abs": "37681",
+        "type": "object",
+        "memory_per": 0.8466
+    },
+    "schedule_id": {
+        "memory_abs": "36690",
+        "type": "object",
+        "memory_per": 0.8243
+    },
+    "address_city": {
+        "memory_abs": "36446",
+        "type": "object",
+        "memory_per": 0.8188
+    },
+    "employment_id": {
+        "memory_abs": "35043",
+        "type": "object",
+        "memory_per": 0.7873
+    },
+    "type_id": {
+        "memory_abs": "35012",
+        "type": "object",
+        "memory_per": 0.7866
+    },
+    "address_building": {
+        "memory_abs": "28703",
+        "type": "int64",
+        "memory_per": 0.6449
+    },
+    "salary_currency": {
+        "memory_abs": "26157",
+        "type": "float64",
+        "memory_per": 0.5877
+    },
+    "department_name": {
+        "memory_abs": "21653",
+        "type": "float64",
+        "memory_per": 0.4865
+    },
+    "employer_trusted": {
+        "memory_abs": "20654",
+        "type": "bool",
+        "memory_per": 0.464
+    },
+    "contacts": {
+        "memory_abs": "20516",
+        "type": "float64",
+        "memory_per": 0.4609
+    },
+    "department_id": {
+        "memory_abs": "19875",
+        "type": "float64",
+        "memory_per": 0.4465
+    },
+    "salary_gross": {
+        "memory_abs": "19473",
+        "type": "float64",
+        "memory_per": 0.4375
+    },
+    "insider_interview": {
+        "memory_abs": "18981",
+        "type": "float64",
+        "memory_per": 0.4264
+    },
+    "code": {
+        "memory_abs": "18635",
+        "type": "float64",
+        "memory_per": 0.4187
+    },
+    "response_url": {
+        "memory_abs": "18443",
+        "type": "float64",
+        "memory_per": 0.4144
+    },
+    "driver_license_types": {
+        "memory_abs": "18408",
+        "type": "float64",
+        "memory_per": 0.4136
+    },
+    "test_required": {
+        "memory_abs": "18375",
+        "type": "float64",
+        "memory_per": 0.4128
+    },
+    "id": {
+        "memory_abs": "4590",
+        "type": "int64",
+        "memory_per": 0.1031
+    },
+    "employer_id": {
+        "memory_abs": "4590",
+        "type": "int64",
+        "memory_per": 0.1031
+    },
+    "salary_from": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.1031
+    },
+    "salary_to": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.1031
+    },
+    "area_id": {
+        "memory_abs": "4590",
+        "type": "int64",
+        "memory_per": 0.1031
+    },
+    "address_description": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.1031
+    },
+    "address_lat": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.1031
+    },
+    "address_lng": {
+        "memory_abs": "4590",
+        "type": "float64",
+        "memory_per": 0.1031
+    },
+    "accept_handicapped": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "accept_kids": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "allow_messages": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "premium": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "accept_incomplete_resumes": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "response_letter_required": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "has_test": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    },
+    "archived": {
+        "memory_abs": "573",
+        "type": "bool",
+        "memory_per": 0.0129
+    }
+}

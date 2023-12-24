@@ -1,0 +1,309 @@
+{
+    "total_memory_usage": "5876595",
+    "file_size": "210854",
+    "Airline": {
+        "memory_abs": "306100",
+        "type": "object",
+        "memory_per": 5.2088
+    },
+    "OriginCityName": {
+        "memory_abs": "279077",
+        "type": "object",
+        "memory_per": 4.749
+    },
+    "DestCityName": {
+        "memory_abs": "279077",
+        "type": "object",
+        "memory_per": 4.749
+    },
+    "FlightDate": {
+        "memory_abs": "266843",
+        "type": "object",
+        "memory_per": 4.5408
+    },
+    "DepTimeBlk": {
+        "memory_abs": "262860",
+        "type": "object",
+        "memory_per": 4.473
+    },
+    "ArrTimeBlk": {
+        "memory_abs": "262860",
+        "type": "object",
+        "memory_per": 4.473
+    },
+    "DestStateName": {
+        "memory_abs": "259645",
+        "type": "object",
+        "memory_per": 4.4183
+    },
+    "OriginStateName": {
+        "memory_abs": "259644",
+        "type": "object",
+        "memory_per": 4.4183
+    },
+    "Tail_Number": {
+        "memory_abs": "250022",
+        "type": "object",
+        "memory_per": 4.2545
+    },
+    "Operated_or_Branded_Code_Share_Partners": {
+        "memory_abs": "248345",
+        "type": "object",
+        "memory_per": 4.226
+    },
+    "Origin": {
+        "memory_abs": "238963",
+        "type": "object",
+        "memory_per": 4.0664
+    },
+    "Dest": {
+        "memory_abs": "238963",
+        "type": "object",
+        "memory_per": 4.0664
+    },
+    "Marketing_Airline_Network": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "IATA_Code_Marketing_Airline": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "Operating_Airline": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "IATA_Code_Operating_Airline": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "OriginState": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "DestState": {
+        "memory_abs": "234981",
+        "type": "object",
+        "memory_per": 3.9986
+    },
+    "CRSDepTime": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DepTime": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "DepDelayMinutes": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "DepDelay": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "ArrTime": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "ArrDelayMinutes": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "AirTime": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "CRSElapsedTime": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "ActualElapsedTime": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "Distance": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "Year": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "Quarter": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "Month": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DayofMonth": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DayOfWeek": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DOT_ID_Marketing_Airline": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "Flight_Number_Marketing_Airline": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DOT_ID_Operating_Airline": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "Flight_Number_Operating_Airline": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "OriginAirportID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "OriginAirportSeqID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "OriginCityMarketID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "OriginStateFips": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "OriginWac": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DestAirportID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DestAirportSeqID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DestCityMarketID": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DestStateFips": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DestWac": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DepDel15": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "DepartureDelayGroups": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "TaxiOut": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "WheelsOff": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "WheelsOn": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "TaxiIn": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "CRSArrTime": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "ArrDelay": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "ArrDel15": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "ArrivalDelayGroups": {
+        "memory_abs": "31861",
+        "type": "float64",
+        "memory_per": 0.5422
+    },
+    "DistanceGroup": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "DivAirportLandings": {
+        "memory_abs": "31861",
+        "type": "int64",
+        "memory_per": 0.5422
+    },
+    "Cancelled": {
+        "memory_abs": "3982",
+        "type": "bool",
+        "memory_per": 0.0678
+    },
+    "Diverted": {
+        "memory_abs": "3982",
+        "type": "bool",
+        "memory_per": 0.0678
+    }
+}

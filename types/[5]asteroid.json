@@ -1,0 +1,11 @@
+{
+    "id": "object",
+    "spkid": "uint32",
+    "full_name": "object",
+    "name": "category",
+    "diameter": "float32",
+    "per": "float64",
+    "sigma_tp": "float64",
+    "class": "category",
+    "albedo": "float32"
+}

@@ -1,0 +1,12 @@
+{
+    "YEAR": "uint16",
+    "MONTH": "uint8",
+    "DAY": "uint8",
+    "DAY_OF_WEEK": "uint8",
+    "AIRLINE": "category",
+    "TAIL_NUMBER": "category",
+    "SCHEDULED_TIME": "float32",
+    "ELAPSED_TIME": "float32",
+    "DISTANCE": "uint16",
+    "SCHEDULED_ARRIVAL": "uint16"
+}

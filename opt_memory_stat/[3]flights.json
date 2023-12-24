@@ -1,0 +1,53 @@
+{
+    "total_memory_usage": "114085",
+    "SCHEDULED_TIME": {
+        "memory_abs": "22730",
+        "type": "float32",
+        "memory_per": 19.9237
+    },
+    "ELAPSED_TIME": {
+        "memory_abs": "22730",
+        "type": "float32",
+        "memory_per": 19.9237
+    },
+    "TAIL_NUMBER": {
+        "memory_abs": "11795",
+        "type": "category",
+        "memory_per": 10.3388
+    },
+    "YEAR": {
+        "memory_abs": "11365",
+        "type": "uint16",
+        "memory_per": 9.9619
+    },
+    "DISTANCE": {
+        "memory_abs": "11365",
+        "type": "uint16",
+        "memory_per": 9.9619
+    },
+    "SCHEDULED_ARRIVAL": {
+        "memory_abs": "11365",
+        "type": "uint16",
+        "memory_per": 9.9619
+    },
+    "AIRLINE": {
+        "memory_abs": "5684",
+        "type": "category",
+        "memory_per": 4.9823
+    },
+    "MONTH": {
+        "memory_abs": "5682",
+        "type": "uint8",
+        "memory_per": 4.9805
+    },
+    "DAY": {
+        "memory_abs": "5682",
+        "type": "uint8",
+        "memory_per": 4.9805
+    },
+    "DAY_OF_WEEK": {
+        "memory_abs": "5682",
+        "type": "uint8",
+        "memory_per": 4.9805
+    }
+}

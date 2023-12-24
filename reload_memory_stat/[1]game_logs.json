@@ -1,0 +1,808 @@
+{
+    "total_memory_usage": "880053",
+    "h_manager_name": {
+        "memory_abs": "11556",
+        "type": "object",
+        "memory_per": 1.3131
+    },
+    "v_manager_name": {
+        "memory_abs": "11555",
+        "type": "object",
+        "memory_per": 1.313
+    },
+    "hp_umpire_name": {
+        "memory_abs": "11536",
+        "type": "object",
+        "memory_per": 1.3108
+    },
+    "1b_umpire_name": {
+        "memory_abs": "11405",
+        "type": "object",
+        "memory_per": 1.2959
+    },
+    "v_starting_pitcher_name": {
+        "memory_abs": "11396",
+        "type": "object",
+        "memory_per": 1.2949
+    },
+    "h_starting_pitcher_name": {
+        "memory_abs": "11396",
+        "type": "object",
+        "memory_per": 1.2949
+    },
+    "3b_umpire_name": {
+        "memory_abs": "11210",
+        "type": "object",
+        "memory_per": 1.2738
+    },
+    "2b_umpire_name": {
+        "memory_abs": "11049",
+        "type": "object",
+        "memory_per": 1.2555
+    },
+    "v_manager_id": {
+        "memory_abs": "10912",
+        "type": "object",
+        "memory_per": 1.2399
+    },
+    "h_manager_id": {
+        "memory_abs": "10912",
+        "type": "object",
+        "memory_per": 1.2399
+    },
+    "hp_umpire_id": {
+        "memory_abs": "10911",
+        "type": "object",
+        "memory_per": 1.2398
+    },
+    "v_starting_pitcher_id": {
+        "memory_abs": "10910",
+        "type": "object",
+        "memory_per": 1.2397
+    },
+    "h_starting_pitcher_id": {
+        "memory_abs": "10910",
+        "type": "object",
+        "memory_per": 1.2397
+    },
+    "lf_umpire_name": {
+        "memory_abs": "10577",
+        "type": "object",
+        "memory_per": 1.2019
+    },
+    "rf_umpire_name": {
+        "memory_abs": "10576",
+        "type": "object",
+        "memory_per": 1.2017
+    },
+    "v_player_1_name": {
+        "memory_abs": "10472",
+        "type": "object",
+        "memory_per": 1.1899
+    },
+    "h_player_1_name": {
+        "memory_abs": "10472",
+        "type": "object",
+        "memory_per": 1.1899
+    },
+    "v_player_7_name": {
+        "memory_abs": "10463",
+        "type": "object",
+        "memory_per": 1.1889
+    },
+    "h_player_7_name": {
+        "memory_abs": "10463",
+        "type": "object",
+        "memory_per": 1.1889
+    },
+    "v_player_8_name": {
+        "memory_abs": "10460",
+        "type": "object",
+        "memory_per": 1.1886
+    },
+    "h_player_2_name": {
+        "memory_abs": "10460",
+        "type": "object",
+        "memory_per": 1.1886
+    },
+    "h_player_8_name": {
+        "memory_abs": "10460",
+        "type": "object",
+        "memory_per": 1.1886
+    },
+    "v_player_2_name": {
+        "memory_abs": "10459",
+        "type": "object",
+        "memory_per": 1.1885
+    },
+    "v_player_3_name": {
+        "memory_abs": "10454",
+        "type": "object",
+        "memory_per": 1.1879
+    },
+    "h_player_3_name": {
+        "memory_abs": "10454",
+        "type": "object",
+        "memory_per": 1.1879
+    },
+    "v_player_4_name": {
+        "memory_abs": "10453",
+        "type": "object",
+        "memory_per": 1.1878
+    },
+    "h_player_4_name": {
+        "memory_abs": "10453",
+        "type": "object",
+        "memory_per": 1.1878
+    },
+    "h_player_6_name": {
+        "memory_abs": "10452",
+        "type": "object",
+        "memory_per": 1.1877
+    },
+    "v_player_6_name": {
+        "memory_abs": "10451",
+        "type": "object",
+        "memory_per": 1.1875
+    },
+    "v_player_9_name": {
+        "memory_abs": "10450",
+        "type": "object",
+        "memory_per": 1.1874
+    },
+    "h_player_9_name": {
+        "memory_abs": "10450",
+        "type": "object",
+        "memory_per": 1.1874
+    },
+    "v_player_5_name": {
+        "memory_abs": "10445",
+        "type": "object",
+        "memory_per": 1.1869
+    },
+    "h_player_5_name": {
+        "memory_abs": "10444",
+        "type": "object",
+        "memory_per": 1.1867
+    },
+    "losing_pitcher_name": {
+        "memory_abs": "10423",
+        "type": "object",
+        "memory_per": 1.1844
+    },
+    "winning_pitcher_name": {
+        "memory_abs": "10422",
+        "type": "object",
+        "memory_per": 1.1842
+    },
+    "park_id": {
+        "memory_abs": "10408",
+        "type": "object",
+        "memory_per": 1.1827
+    },
+    "h_line_score": {
+        "memory_abs": "10288",
+        "type": "object",
+        "memory_per": 1.169
+    },
+    "v_line_score": {
+        "memory_abs": "10260",
+        "type": "object",
+        "memory_per": 1.1658
+    },
+    "winning_rbi_batter_id_name": {
+        "memory_abs": "10257",
+        "type": "object",
+        "memory_per": 1.1655
+    },
+    "1b_umpire_id": {
+        "memory_abs": "10110",
+        "type": "object",
+        "memory_per": 1.1488
+    },
+    "day_of_week": {
+        "memory_abs": "10072",
+        "type": "object",
+        "memory_per": 1.1445
+    },
+    "v_name": {
+        "memory_abs": "10072",
+        "type": "object",
+        "memory_per": 1.1445
+    },
+    "h_name": {
+        "memory_abs": "10072",
+        "type": "object",
+        "memory_per": 1.1445
+    },
+    "saving_pitcher_name": {
+        "memory_abs": "9922",
+        "type": "object",
+        "memory_per": 1.1274
+    },
+    "v_player_1_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_2_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_3_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_4_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_5_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_6_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_7_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_8_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_player_9_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_1_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_2_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_3_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_4_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_5_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_6_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_7_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_8_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "h_player_9_id": {
+        "memory_abs": "9910",
+        "type": "object",
+        "memory_per": 1.1261
+    },
+    "v_league": {
+        "memory_abs": "9904",
+        "type": "object",
+        "memory_per": 1.1254
+    },
+    "h_league": {
+        "memory_abs": "9904",
+        "type": "object",
+        "memory_per": 1.1254
+    },
+    "winning_pitcher_id": {
+        "memory_abs": "9891",
+        "type": "object",
+        "memory_per": 1.1239
+    },
+    "losing_pitcher_id": {
+        "memory_abs": "9891",
+        "type": "object",
+        "memory_per": 1.1239
+    },
+    "3b_umpire_id": {
+        "memory_abs": "9133",
+        "type": "object",
+        "memory_per": 1.0378
+    },
+    "acquisition_info": {
+        "memory_abs": "8948",
+        "type": "object",
+        "memory_per": 1.0168
+    },
+    "day_night": {
+        "memory_abs": "8930",
+        "type": "object",
+        "memory_per": 1.0147
+    },
+    "winning_rbi_batter_id": {
+        "memory_abs": "8778",
+        "type": "object",
+        "memory_per": 0.9974
+    },
+    "2b_umpire_id": {
+        "memory_abs": "8225",
+        "type": "object",
+        "memory_per": 0.9346
+    },
+    "saving_pitcher_id": {
+        "memory_abs": "6919",
+        "type": "object",
+        "memory_per": 0.7862
+    },
+    "additional_info": {
+        "memory_abs": "5429",
+        "type": "object",
+        "memory_per": 0.6169
+    },
+    "lf_umpire_id": {
+        "memory_abs": "5378",
+        "type": "object",
+        "memory_per": 0.6111
+    },
+    "completion": {
+        "memory_abs": "5376",
+        "type": "object",
+        "memory_per": 0.6109
+    },
+    "protest": {
+        "memory_abs": "5376",
+        "type": "object",
+        "memory_per": 0.6109
+    },
+    "forefeit": {
+        "memory_abs": "5375",
+        "type": "object",
+        "memory_per": 0.6108
+    },
+    "rf_umpire_id": {
+        "memory_abs": "5372",
+        "type": "object",
+        "memory_per": 0.6104
+    },
+    "date": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "number_of_game": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "v_game_number": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "h_game_number": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "v_score": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "h_score": {
+        "memory_abs": "1343",
+        "type": "int64",
+        "memory_per": 0.1526
+    },
+    "length_outs": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "attendance": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "length_minutes": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_at_bats": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_hits": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_doubles": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_triples": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_homeruns": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_rbi": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_sacrifice_hits": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_sacrifice_flies": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_hit_by_pitch": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_walks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_intentional walks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_strikeouts": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_stolen_bases": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_caught_stealing": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_grounded_into_double": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_first_catcher_interference": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_left_on_base": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_pitchers_used": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_individual_earned_runs": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_team_earned_runs": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_wild_pitches": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_balks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_putouts": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_assists": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_errors": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_passed_balls": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_double_plays": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_triple_plays": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_at_bats": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_hits": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_doubles": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_triples": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_homeruns": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_rbi": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_sacrifice_hits": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_sacrifice_flies": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_hit_by_pitch": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_walks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_intentional walks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_strikeouts": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_stolen_bases": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_caught_stealing": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_grounded_into_double": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_first_catcher_interference": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_left_on_base": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_pitchers_used": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_individual_earned_runs": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_team_earned_runs": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_wild_pitches": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_balks": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_putouts": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_assists": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_errors": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_passed_balls": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_double_plays": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_triple_plays": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_1_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_2_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_3_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_4_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_5_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_6_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_7_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_8_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "v_player_9_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_1_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_2_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_3_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_4_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_5_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_6_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_7_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_8_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    },
+    "h_player_9_def_pos": {
+        "memory_abs": "1343",
+        "type": "float64",
+        "memory_per": 0.1526
+    }
+}

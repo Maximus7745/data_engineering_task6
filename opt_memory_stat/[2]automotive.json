@@ -1,0 +1,53 @@
+{
+    "total_memory_usage": "544077",
+    "vin": {
+        "memory_abs": "317214",
+        "type": "category",
+        "memory_per": 58.3031
+    },
+    "stockNum": {
+        "memory_abs": "124556",
+        "type": "category",
+        "memory_per": 22.8931
+    },
+    "msrp": {
+        "memory_abs": "22246",
+        "type": "uint32",
+        "memory_per": 4.0888
+    },
+    "askPrice": {
+        "memory_abs": "22246",
+        "type": "uint32",
+        "memory_per": 4.0888
+    },
+    "color": {
+        "memory_abs": "12985",
+        "type": "category",
+        "memory_per": 2.3866
+    },
+    "firstSeen": {
+        "memory_abs": "11257",
+        "type": "category",
+        "memory_per": 2.069
+    },
+    "modelName": {
+        "memory_abs": "11248",
+        "type": "category",
+        "memory_per": 2.0674
+    },
+    "lastSeen": {
+        "memory_abs": "11187",
+        "type": "category",
+        "memory_per": 2.0561
+    },
+    "brandName": {
+        "memory_abs": "5572",
+        "type": "category",
+        "memory_per": 1.0241
+    },
+    "isNew": {
+        "memory_abs": "5561",
+        "type": "bool",
+        "memory_per": 1.0221
+    }
+}

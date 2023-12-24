@@ -1,0 +1,159 @@
+{
+    "total_memory_usage": "2718709",
+    "file_size": "578522",
+    "TAIL_NUMBER": {
+        "memory_abs": "357549",
+        "type": "object",
+        "memory_per": 13.1514
+    },
+    "AIRLINE": {
+        "memory_abs": "335278",
+        "type": "object",
+        "memory_per": 12.3323
+    },
+    "ORIGIN_AIRPORT": {
+        "memory_abs": "329875",
+        "type": "object",
+        "memory_per": 12.1335
+    },
+    "DESTINATION_AIRPORT": {
+        "memory_abs": "329875",
+        "type": "object",
+        "memory_per": 12.1335
+    },
+    "CANCELLATION_REASON": {
+        "memory_abs": "184128",
+        "type": "float64",
+        "memory_per": 6.7726
+    },
+    "YEAR": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "MONTH": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DAY": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DAY_OF_WEEK": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "FLIGHT_NUMBER": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "SCHEDULED_DEPARTURE": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DEPARTURE_TIME": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DEPARTURE_DELAY": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "TAXI_OUT": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "WHEELS_OFF": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "SCHEDULED_TIME": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "ELAPSED_TIME": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "AIR_TIME": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DISTANCE": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "WHEELS_ON": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "TAXI_IN": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "SCHEDULED_ARRIVAL": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "ARRIVAL_TIME": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "ARRIVAL_DELAY": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "DIVERTED": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "CANCELLED": {
+        "memory_abs": "45461",
+        "type": "int64",
+        "memory_per": 1.6722
+    },
+    "AIR_SYSTEM_DELAY": {
+        "memory_abs": "45461",
+        "type": "float64",
+        "memory_per": 1.6722
+    },
+    "SECURITY_DELAY": {
+        "memory_abs": "45461",
+        "type": "float64",
+        "memory_per": 1.6722
+    },
+    "AIRLINE_DELAY": {
+        "memory_abs": "45461",
+        "type": "float64",
+        "memory_per": 1.6722
+    },
+    "LATE_AIRCRAFT_DELAY": {
+        "memory_abs": "45461",
+        "type": "float64",
+        "memory_per": 1.6722
+    },
+    "WEATHER_DELAY": {
+        "memory_abs": "45461",
+        "type": "float64",
+        "memory_per": 1.6722
+    }
+}
