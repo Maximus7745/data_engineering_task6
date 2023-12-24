@@ -30,7 +30,7 @@ print(df.dtypes)
 
 
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(25, 15))
 df['FlightDate'] = pd.to_datetime(df['FlightDate'])
 df['FlightDate'].value_counts().sort_index().plot(kind='line')
 plt.xlabel('Дата')
@@ -41,7 +41,7 @@ plt.close()
 
 
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(18, 9))
 df['OriginStateName'].value_counts().plot(kind='bar')
 plt.xlabel('Штат отправления')
 plt.ylabel('Количество полетов')
@@ -70,7 +70,7 @@ plt.close()
 
 
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(14, 10))
 df.loc[df['Cancelled'] == False]['DestStateName'].value_counts().plot(kind='bar')
 plt.xlabel('Штат назначения')
 plt.ylabel('Количество задержек')

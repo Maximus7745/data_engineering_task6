@@ -26,7 +26,7 @@ df = pd.read_csv("datasets_for_graph\[4]vacancies.csv", dtype=need_dtypes)
 print(df.dtypes)
 
 #1
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(18, 18))
 df['schedule_name'].value_counts().plot(kind='bar')
 plt.xlabel('График работы')
 plt.ylabel('Количество вакансий')
@@ -36,7 +36,7 @@ plt.close()
 
 
 #2
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(18, 18))
 df.groupby('experience_name')['salary_from'].mean().plot(kind='bar')
 plt.xlabel('Опыт работы')
 plt.ylabel('Средний размер зарплаты')
@@ -53,7 +53,7 @@ plt.savefig('graph4/employment_distribution.png')
 plt.close()
 
 #4
-plt.figure(figsize=(10, 10))
+plt.figure(figsize=(20, 18))
 df.groupby('area_name')['salary_from'].mean().sort_values(key= lambda x: -x).head(35).plot(kind='bar')
 plt.xlabel('Регион')
 plt.ylabel('Средний размер зарплаты')
@@ -62,7 +62,7 @@ plt.savefig('graph4/salary_by_region.png')
 plt.close()
 
 #5
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(14, 12))
 df['area_name'].value_counts().head(35).plot(kind='bar')
 plt.xlabel('Регион')
 plt.ylabel('Количество вакансий')
@@ -71,7 +71,7 @@ plt.savefig('graph4/vacancies_by_region.png')
 plt.close()
 #6
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(18, 14))
 df['prof_classes_found'].value_counts().head(10).plot(kind='bar')
 plt.xlabel('Категория профессии')
 plt.ylabel('Количество вакансий')
@@ -80,7 +80,7 @@ plt.savefig('graph4/profession_categories.png')
 plt.close()
 
 #7
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(18, 14))
 df['experience_name'].value_counts().plot(kind='bar')
 plt.xlabel('Уровень опыта')
 plt.ylabel('Количество вакансий')

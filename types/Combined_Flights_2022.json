@@ -1,12 +1,12 @@
 {
     "FlightDate": "category",
+    "Airline": "category",
+    "Dest": "category",
+    "Cancelled": "bool",
+    "Diverted": "bool",
     "ArrTime": "float32",
     "Distance": "float32",
     "OriginStateName": "category",
     "DestStateName": "category",
-    "CRSArrTime": "uint16",
-    "Airline": "category",
-    "Cancelled": "bool",
-    "Diverted": "bool",
-    "Dest": "category"
+    "CRSArrTime": "uint16"
 }

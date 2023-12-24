@@ -28,15 +28,12 @@ def write_memory_stat_by_file(filename, path: str = r"start_memory_stat\memory_s
                     "memory_abs": 0,
                     "type": chank.dtypes[title]
                 }
-    has_header = True
     for chunck in pd.read_csv(filename, chunksize=900_000):
         memory_usage_columns = chunck.memory_usage(deep=True)
         memory_stat["total_memory_usage"] += memory_usage_columns.sum()
         keys = chunck.dtypes.keys()
         for key in chunck.dtypes.keys():
             column_stat[key]["memory_abs"] += memory_usage_columns[key]
-        #chunck.to_csv("opt_dataset\\" + str(filename.split([".", "\\"][1])) + ".csv", mode="a", header= has_header)
-        #has_header = False
     memory_stat["total_memory_usage"] //= 1024
     for key in column_stat.keys():
         column_stat[key]["memory_abs"] //= 1024
@@ -102,8 +99,6 @@ def optimization(filename: str):
     optimize_dataset[converted_int.columns] = converted_int
     optimize_dataset[converted_float.columns] = converted_float
 
-    dataset.to_csv("reloaded_dataset/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv", index = False)
-    optimize_dataset.to_csv("opt_dataset/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv", index = False)
 
     write_memory_stat_by_df("reloaded_dataset/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv",
                             dataset, path= r"reload_memory_stat/")
@@ -121,17 +116,15 @@ def optimization(filename: str):
     print(mem_usage(dataset))
     print(mem_usage(optimize_dataset))
 
-    print(pd.read_csv("opt_dataset/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv").dtypes)
 
     if(size < 300000000):
-        save_columns(optimize_dataset, get_selected_columns(filename), filename)
         write_data_into_json("types/" + filename.replace("\\",".").replace("/",".").split(".")[1], optimize_dataset.dtypes[get_selected_columns(filename)].to_dict())
         optimize_dataset[get_selected_columns(filename)].to_csv("datasets_for_graph/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv", index = False)
     else:
         optimize_dataset.to_csv("datasets_for_graph/" + filename.replace("\\",".").replace("/",".").split(".")[1] + ".csv", index = False)
         write_data_into_json("types/" + filename.replace("\\",".").replace("/",".").split(".")[1], optimize_dataset.dtypes.to_dict())
 
-    return optimize_dataset
+    #return optimize_dataset
 
 
 
@@ -230,15 +223,18 @@ def get_selected_columns(filename: str):
                     "DestStateName","CRSArrTime","Airline",
                     "Cancelled","Diverted","Dest"]
 
+def check_and_create_dir():
+    for dir in ["datasets_for_graph"]:
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
 if __name__ == "__main__":
-    files = get_file_names("dataset_6")
-    for file in files[4 : 5]:
+    files = get_file_names("dataset_6") #файлы считываются из папка dataset_6
+    check_and_create_dir()
+    #После чего проходимся по всем файлам, можно проходить по одному файлу, если указать срез, например file[0 : 1] (Combined_Flights_2022.csv0 и т.д.
+    for file in files:
         #dataset = read_csv(file)
         write_memory_stat_by_file(file)
+        optimization(file)
 
-        optimize_dataset = optimization(file)
-
-        # print(mem_usage(dataset))
-        # print(mem_usage(optimize_dataset))
-        #save_columns(optimize_dataset, get_selected_columns(file) , file)
 

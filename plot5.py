@@ -29,7 +29,6 @@ plt.plot(df['diameter'])
 plt.title('Линейный график диаметра астероидов')
 plt.xlabel('Индекс астероида')
 plt.ylabel('Диаметр')
-plt.savefig('линейный_график.png')
 plt.savefig('graph5/diametrs.png')
 plt.close()
 

@@ -30,9 +30,9 @@ plt.figure(figsize=(10, 6))
 df['lastSeen'] = pd.to_datetime(df['lastSeen'])
 df['weekday'] = df['lastSeen'].dt.weekday
 df['weekday'].value_counts().sort_index().plot(kind='line')
-plt.xticks(range(7), ['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'])
+plt.xticks(range(7), ["Sun", "Mon", "Tue", "Wen", "Thu", "Fri", "Sat"])
 plt.xlabel('День недели')
-plt.ylabel('Количество')
+plt.ylabel('Количество авто')
 plt.title('Распределение автомобилей по дням недели просмотра')
 plt.savefig(r'graph2\car_by_day.png')
 plt.close()
@@ -41,13 +41,13 @@ plt.close()
 #2
 df['isNew'].value_counts().plot(kind='pie')
 plt.ylabel('')
-plt.title('New vs Used Cars')
+plt.title('Новые и подержаные машины')
 plt.savefig(r'graph2\new_car.png')
 plt.close()
 
 #3
-plt.figure(figsize=(10, 6))
-df['brandName'].value_counts()[: 20].plot(kind='bar')
+plt.figure(figsize=(16, 14))
+df['brandName'].value_counts().head(20).plot(kind='bar')
 plt.xlabel('Марка автомобиля')
 plt.ylabel('Количество')
 plt.title('Распределение автомобилей по маркам')
@@ -57,11 +57,9 @@ plt.close()
 #4
 top_10_colors = df['color'].value_counts().nlargest(10)
 other_colors_count = df['color'].value_counts().sum() - top_10_colors.sum()
-
 plt.figure(figsize=(8, 8))
 color_counts = list(top_10_colors.values) + [other_colors_count]
 colors = list(top_10_colors.index) + ['Other']
-
 plt.pie(color_counts, labels=colors, autopct='%1.1f%%')
 plt.title('Распределение цветов автомобилей')
 plt.savefig('graph2/color_distribution.png')

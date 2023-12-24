@@ -27,7 +27,6 @@ print(df.dtypes)
 
 #1
 sns.heatmap(df.select_dtypes(include=[np.number]).corr(), annot=True, cmap="coolwarm")
-plt.title('Корреляционная матрица')
 plt.savefig(r'graph3\corr1.png')
 plt.close()
 
@@ -42,7 +41,6 @@ plt.close()
 
 plt.pie(df['AIRLINE'].value_counts(), labels=df['AIRLINE'].unique())
 plt.title('Круговая диаграмма авиакомпаний')
-plt.savefig('круговая_диаграмма.png')
 plt.savefig(r'graph3\airlines.png')
 plt.close()
 
@@ -51,7 +49,6 @@ plt.hist(df['DISTANCE'], bins=20)
 plt.title('Гистограмма расстояния')
 plt.xlabel('Расстояние')
 plt.ylabel('Частота')
-plt.savefig('гистограмма.png')
 plt.savefig(r'graph3\diatance.png')
 plt.close()
 
@@ -63,7 +60,6 @@ plt.close()
 
 
 mean_time = df.groupby('DAY_OF_WEEK')['ELAPSED_TIME'].mean()
-
 plt.plot(["Sun", "Mon", "Tue", "Wen", "Thu", "Fri", "Sat"], mean_time.values)
 plt.title('Среднее время в пути по дням недели')
 plt.xlabel('День недели')
